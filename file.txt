@@ -1,1 +1,1 @@
-command shit .
+command shift .
